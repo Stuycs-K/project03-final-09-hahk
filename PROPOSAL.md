@@ -7,6 +7,7 @@ Keith Hah
 # Intentions:
 
 A statement of the problem you are solving and/or a high level description of the project.
+ideas so far: multiplayer game, music library, organizing files
 
 # Intended usage:
 
